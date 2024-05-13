@@ -1,0 +1,17 @@
+// C4D-StringResource
+// Identifier	Text
+
+STRINGTABLE
+{
+  IDS_REAWOTE_PBR_CONVERTER "REAWOTE PBR converter";
+
+  IDS_DIALOG_BROWSE "Browse";
+  IDS_DIALOG_TEXTURE_FOLDER "Material folder";
+  IDS_DIALOG_FOLDER_LIST "Materials in folder";
+  IDS_DIALOG_INCLUDE_AO "Include ambient occlusion (AO) maps";
+  IDS_DIALOG_INCLUDE_DISPLACEMENT "Include displacement maps";
+  IDS_DIALOG_USE_16_BIT_DISPLACEMENT_MAPS "Use 16 bit displacement maps (when available)";
+  IDS_DIALOG_USE_16_BIT_NORMAL_MAPS "Use 16 bit normal maps (when available)";
+  IDS_DIALOG_LOAD "Load Material";
+
+}
